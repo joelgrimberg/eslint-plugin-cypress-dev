@@ -27,9 +27,9 @@
   "devDependencies": {
     "condition-circle": "2.0.2",
     "github-post-release": "1.13.1",
-    "husky": "^0.14.3",
+    "husky": "^2.3.0",
+    "simple-commit-message": "4.0.3"
     "semantic-release": "15.13.12",
-    "simple-commit-message": "3.3.1"
   },
   "scripts": {
     "lint": "eslint --fix *.js",
