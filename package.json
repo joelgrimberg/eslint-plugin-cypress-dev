@@ -25,7 +25,7 @@
     "eslint-plugin-react": "^7.2.1"
   },
   "devDependencies": {
-    "condition-circle": "1.6.0",
+    "condition-circle": "2.0.2",
     "github-post-release": "1.13.1",
     "husky": "^2.3.0",
     "simple-commit-message": "4.0.3"
